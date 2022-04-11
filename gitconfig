@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = max.hoechsmann@googlemail.com
+	name = Max Hoechsmann
